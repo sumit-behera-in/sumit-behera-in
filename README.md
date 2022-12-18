@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sumitbehera1508
 - 👀 I’m interested in animes
-- 🌱 I’m currently learning "don't know what i am doing"
-- 💞️ I’m looking to collaborate on "anything will be fine"
+- 🌱 I’m currently learning mca
+- 💞️ I’m looking to collaborate on "free for all😁😁"
 - 📫 How to reach me " https://www.facebook.com/sumitkumar.sk.1426 "
+- 
 
 <!---
 sumitbehera1508/sumitbehera1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
