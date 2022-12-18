@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumitbehera1508
 - 👀 I’m interested in animes
-- 🌱 I’m currently learning mca
-- 💞️ I’m looking to collaborate on "free for all😁😁"
+- 🌱 I’m currently learning "how to code 👀👀👀👀👀👀 "
 - 📫 How to reach me " https://www.facebook.com/sumitkumar.sk.1426 "
 - 
 
