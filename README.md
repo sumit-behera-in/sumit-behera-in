@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumitbehera1508
 - 👀 I’m interested in animes
 - 🌱 I’m currently learning "how to code 👀👀👀👀👀👀 "
-- 📫 How to reach me " https://www.facebook.com/sumitkumar.sk.1426 "
+- 📫 How to reach me " https://www.linkedin.com/in/sumit-behera-24a52b258/ "
 - 
 
 <!---
