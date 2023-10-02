@@ -25,11 +25,11 @@
 ![hr](https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/1417f6c8-f079-4d1b-9a7e-efe0acda3c50)
 ![leetcode](https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/f1a4a6e6-7891-458a-b882-e6b5e16ffd4b)
 
-![codingninjas](https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/aa9159b0-ee1d-434e-b05a-e1b1b62e073c)
+![codingninjas](https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/acc02e1c-caf4-4d06-aba6-22c2f7062081)
 
 ![salesforce](https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/1d67f0ad-b9cd-4764-a0fb-11c3743794b8)
 
-![gfg](https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/0e120e42-dd97-44f3-90fe-c18754b7b1dd)
+![gfg](https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/2300529c-0ef1-4f6d-8987-3313c99aec72)
 
 
 <!---
