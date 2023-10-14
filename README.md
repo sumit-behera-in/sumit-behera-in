@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/sumit-behera-24a52b258/"> Hi there , I am Sumit Behera </a>
 
 *   📖  Learning and improving everyday
-*   ✉️  You can contact me at [s1508b@gmail.com](mailto: s1508b@gmail.com)
+*   ✉️  You can contact me at s1508b@gmail.com
 *   🧠  I'm learning Android development using kotlin and AI/ML
 *   🤝  I'm open to collaborating on Projects
 *   👀  I'm currently looking for internships 
