@@ -11,11 +11,12 @@
 <div display: flex;
   flex-wrap: wrap;
   padding: 0 4px;>
-<a href= "https://leetcode.com/sumitbehera1508/" ><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100491275/272070794-2c993baa-51cf-4908-bc9a-3fe2453020a0.png" height = "70"/></a>
-<a href = "https://auth.geeksforgeeks.org/user/sumitbehera1508"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100491275/272070573-c48bc766-fcef-4a43-8cf0-bb6500ba8a89.png" height = "70"/></a>
-<a href = "https://www.hackerrank.com/sumitbehera1508"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100491275/272070102-4f52edc5-f642-43ec-b309-da67b6470758.png" height = "70" /></a> 
-<a href= "https://www.codingninjas.com/studio/profile/sumitbehera1508"><img src="https://user-images.githubusercontent.com/100491275/272065313-acc02e1c-caf4-4d06-aba6-22c2f7062081.png" height = "70"/></a>
-<a href= "https://www.salesforce.com/trailblazer/sbehera1508"><img src="https://user-images.githubusercontent.com/100491275/272063837-1d67f0ad-b9cd-4764-a0fb-11c3743794b8.png" height = "70"/> </a>
+<a href= "https://leetcode.com/sumitbehera1508/" ><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100491275/272070794-2c993baa-51cf-4908-bc9a-3fe2453020a0.png" height = "40"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/sumitbehera1508"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100491275/272070573-c48bc766-fcef-4a43-8cf0-bb6500ba8a89.png" height = "40"/></a>
+<a href = "https://www.hackerrank.com/sumitbehera1508"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100491275/272070102-4f52edc5-f642-43ec-b309-da67b6470758.png" height = "40" /></a> 
+<a href= "https://www.codingninjas.com/studio/profile/sumitbehera1508"><img src="https://user-images.githubusercontent.com/100491275/272065313-acc02e1c-caf4-4d06-aba6-22c2f7062081.png" height = "40"/></a>
+ <a href="https://kaggle.com/sumitbehera1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sumitbehera1508" height="30" width="40" /></a>
+<a href= "https://www.salesforce.com/trailblazer/sbehera1508"><img src="https://user-images.githubusercontent.com/100491275/272063837-1d67f0ad-b9cd-4764-a0fb-11c3743794b8.png" height = "40"/> </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
