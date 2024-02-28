@@ -1,8 +1,5 @@
 # <a href="https://www.linkedin.com/in/sumit-behera-24a52b258/"> Hi there , I am Sumit Behera </a>
 
-![](https://komarev.com/ghpvc/?username=sumitbehera150&blueviolet)
-
-
 *   📖  Learning and improving everyday
 *   ✉️  You can contact me at s1508b@gmail.com
 *   🧠  I'm learning Android development using kotlin and AI/ML
