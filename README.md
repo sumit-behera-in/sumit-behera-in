@@ -39,18 +39,22 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitbehera1508&show_icons=true&locale=en&layout=compact" alt="sumitbehera1508" /></p>
+<p >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbehera1508&" width = "59%" alt="sumitbehera1508" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitbehera1508" width = "40%" alt="sumitbehera1508" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitbehera1508&show_icons=true&locale=en" alt="sumitbehera1508" /></p>
+<p >
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitbehera1508" width = "33%" alt="sumitbehera1508" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitbehera1508" width = "33%" alt="sumitbehera1508" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitbehera1508" width = "33%" alt="sumitbehera1508" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbehera1508&" alt="sumitbehera1508" /></p>
 
 <!---
 
 sumitbehera1508/sumitbehera1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 
 
