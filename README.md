@@ -32,41 +32,83 @@
 
 ## Languages
   
-| C | C++ | C# | Java | Kotlin | Python3 |
-|----------|----------|----------|-----|-----|-----|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | 
+| C | C++ | C# | Go | Java | Kotlin | Python3 |
+|----------|----------|----------|-----|-----|-----|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> |<img src="https://go.dev/images/go-logo-white.svg" alt="Go" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> |
 
+## Android App Development :
 
-## Tools and Frameworks
+<table>
+  <tr>
+    <th>Compose</th>
+    <th>FireBase</th>
+    <th>Ktor</th>
+    <th>RealmDB</th>    
+    <th>RoomDB</th>
+    
+  </tr>
+  <tr>
+    <td style="text-align: center;"><a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/a4dc1522-dd45-488f-a8dd-948bf3a54c0a" alt="Jetpack Compose" width="40" height="40" style="vertical-align: middle;"></a></td>
+    <td style="text-align: center;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="vertical-align: middle;"></a></td>
+     <td style=" text-align: center;"><a href="https://ktor.io/" target="_blank" rel="noreferrer"><img src="https://start.ktor.io/assets/io.ktor.svg" alt="ktor" width="40" height="40" style="vertical-align: middle;"></a></td>
+    <td style=" text-align: center;"><a href="https://realm.io/" target="_blank" rel="noreferrer"><img src="https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/5ad608be-9b7b-4407-b552-c2360a73565a" alt="realm DB" width="40" height="40" style="vertical-align: middle;"></a></td>
+    <td style=" text-align: center;"><a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/02f54fcd-b74e-4e2f-a48c-8dfbd5d16183" alt="room DB" width="40" height="40" style="vertical-align: middle;"></a></td>
+  </tr>
+</table>
+
+## Backend :
+
+<table>
+  <tr>
+      <th>Gin</th>
+      <th>Ktor</th>
+  </tr>
+  <tr>
+      <td style=" text-align: center;"><a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" alt="Gin" width="40" height="40" style="vertical-align: middle;"></a></td>
+      <td style=" text-align: center;"><a href="https://ktor.io/" target="_blank" rel="noreferrer"><img src="https://start.ktor.io/assets/io.ktor.svg" alt="ktor" width="40" height="40" style="vertical-align: middle;"></a></td>
+  </tr>
+</table>
+
+## Databases :
+
+<table>
+  <tr>
+      <th>MongoDB</th>
+      <th>MySQL</th>
+  </tr>
+  <tr>
+      <td style=" text-align: center;"><a href="https://www.mongodb.com/?msockid=16c39f3239bc6aa83e428cbd38566b40" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th?id=ODLS.c5cd436a-f488-4e7e-97b3-96fd95cd707f&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="ktor" width="40" height="40" style="vertical-align: middle;"></a></td>
+      <td style=" text-align: center;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align: middle;"></a></td>
+  </tr>
+</table>
+
+## Oerating Systems :
+
+<table>
+  <tr>
+      <th>Android</th>
+      <th>Linux</th>
+      <th>Windows</th>
+  </tr>
+  <tr>
+       <td style=" text-align: center;"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="vertical-align: middle;"></a></td>
+       <td style=" text-align: center;"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="vertical-align: middle;"></a></td>
+      <td style=" text-align: center;"><a href="https://www.microsoft.com/en-us/software-download/windows11?msockid=16c39f3239bc6aa83e428cbd38566b40?msockid=16c39f3239bc6aa83e428cbd38566b40" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th?id=ODLS.dff3174d-c8cf-4132-8c42-90ebaa81f245&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="Windows" width="40" height="40" style="vertical-align: middle;"></a></td>
+  </tr>
+</table>
+
+## Tools 
    
 <table >
   <tr>
-        <th>Linux</th>
-        <th>Android</th>
-        <th>Compose</th>
-        <th>RoomDB</th>
-        <th>RealmDB</th>
-        <th>MySQL</th>
-        <th>FireBase</th>
-        <th>Pandas</th>
-        <th>Unity</th>
-        <th>Ktor</th>
-        <th>PostMan</th>
         <th>Git</th>
+        <th>PostMan</th>     
+        <th>Unity</th>
   </tr>
         <tr>
-    <td style=" text-align: center;"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style=" text-align: center;"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style="text-align: center;"><a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/a4dc1522-dd45-488f-a8dd-948bf3a54c0a" alt="Jetpack Compose" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style=" text-align: center;"><a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/02f54fcd-b74e-4e2f-a48c-8dfbd5d16183" alt="room DB" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style=" text-align: center;"><a href="https://realm.io/" target="_blank" rel="noreferrer"><img src="https://github.com/sumitbehera1508/sumitbehera1508/assets/100491275/5ad608be-9b7b-4407-b552-c2360a73565a" alt="realm DB" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style=" text-align: center;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style="text-align: center;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style=" text-align: center;"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style=" text-align: center;"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style=" text-align: center;"><a href="https://ktor.io/" target="_blank" rel="noreferrer"><img src="https://start.ktor.io/assets/io.ktor.svg" alt="ktor" width="40" height="40" style="vertical-align: middle;"></a></td>
-    <td style=" text-align: center;"><a href="https://www.postman.com/downloads/" target="_blank" rel="noreferrer"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="40" height="40" style="vertical-align: middle;"></a></td>
     <td style=" text-align: center;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="vertical-align: middle;"></a></td>
+    <td style=" text-align: center;"><a href="https://www.postman.com/downloads/" target="_blank" rel="noreferrer"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="40" height="40" style="vertical-align: middle;"></a></td>
+    <td style=" text-align: center;"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="vertical-align: middle;"></a></td>
 </tr>
     </table>
 
