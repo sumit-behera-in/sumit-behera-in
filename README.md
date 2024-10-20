@@ -114,13 +114,13 @@
 
 
 <p >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbehera1508&" width = "59%" alt="sumitbehera1508" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitbehera1508" width = "40%" alt="sumitbehera1508" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-behera-in&" width = "59%" alt="sumit-behera-in" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumit-behera-in" width = "40%" alt="sumit-behera-in" /></p>
 
 <p >
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitbehera1508" width = "33%" alt="sumitbehera1508" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitbehera1508" width = "33%" alt="sumitbehera1508" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitbehera1508" width = "33%" alt="sumitbehera1508" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit-behera-in" width = "33%" alt="sumit-behera-in" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumit-behera-in" width = "33%" alt="sumit-behera-in" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumit-behera-in" width = "33%" alt="sumit-behera-in" />
 </p>
 
 
