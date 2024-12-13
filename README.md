@@ -1,11 +1,12 @@
-# <a href="https://www.linkedin.com/in/sumit-behera-24a52b258/"> Hi there , I am Sumit Behera </a>
+# ![Sumit Behera](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Native+Android+Developer!;Go+CLI+Application+Developer!)
 
-*   📖  Learning and improving everyday
-*   ✉️  You can contact me at s1508b@gmail.com
-*   🧠  I'm learning Android development using kotlin and AI/ML
-*   🤝  I'm open to collaborating on Projects
-*   👀  I'm currently looking for internships 
-
+* 📖 Continuously learning and growing as a developer
+* ✉️ Reach me at s1508b@gmail.com
+* 💻 Building robust Go CLI tools for efficient workflows
+* 📱 Crafting intuitive Android apps with Kotlin
+* 🧠 Expanding expertise in AI/ML for smarter solutions
+* 🤝 Open to collaborative and impactful projects
+* 🌟 Seeking challenging opportunities to innovate and excel
 
 
 ## Coding Profiles
@@ -114,8 +115,8 @@
 
 
 <p >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-behera-in&" width = "59%" alt="sumit-behera-in" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumit-behera-in" width = "40%" alt="sumit-behera-in" /></p>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-behera-in&theme=github" width = "62%" alt="sumit-behera-in" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumit-behera-in" width = "37%" alt="sumit-behera-in" /></p>
 
 <p >
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit-behera-in" width = "33%" alt="sumit-behera-in" />
