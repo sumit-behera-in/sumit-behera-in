@@ -1,0 +1,70 @@
+name: Update README with Releases from Repos with Releases
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Runs every Sunday at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v3
+
+    - name: Install dependencies
+      run: sudo apt-get update && sudo apt-get install -y jq gawk
+
+    - name: Fetch all repositories and their releases
+      id: fetch_releases
+      run: |
+        # Fetch all repositories for the user/organization
+        curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          https://api.github.com/users/sumit-behera-in/repos \
+          | jq -r '.[].full_name' > repos.txt
+
+        # Create a markdown file for repositories with releases
+        echo "" > releases.md
+        while IFS= read -r repo; do
+          echo "Checking releases for $repo..."
+          # Fetch releases for the current repository
+          RELEASES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/$repo/releases)
+          
+          # Check if there are releases
+          if echo "$RELEASES" | jq -e '. | length > 0' > /dev/null; then
+            # Extract the latest release
+            LATEST_RELEASE=$(echo "$RELEASES" | jq -r '.[0]')
+            RELEASE_NAME=$(echo "$LATEST_RELEASE" | jq -r '.name')
+            RELEASE_URL=$(echo "$LATEST_RELEASE" | jq -r '.html_url')
+
+            # Add to markdown if the latest release exists
+            if [ -n "$RELEASE_NAME" ] && [ -n "$RELEASE_URL" ]; then
+              echo "- Latest release from $repo : [$RELEASE_NAME]($RELEASE_URL)" >> releases.md
+            fi
+          else
+            echo "No releases found for $repo."
+          fi
+        done < repos.txt
+
+    - name: Update README
+      run: |
+        # Safely update README.md with releases
+        if grep -q "## Releases" README.md; then
+          awk '/## Releases/{print;print "";system("cat releases.md");next}1' README.md > README.new
+        else
+          echo "## Releases" > README.new
+          echo "" >> README.new
+          cat releases.md >> README.new
+          cat README.md >> README.new
+        fi
+        mv README.new README.md
+
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update README with releases from repositories with releases" || echo "No changes to commit"
+        git push || echo "Nothing to push"
