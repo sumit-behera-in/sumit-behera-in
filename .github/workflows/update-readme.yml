@@ -50,15 +50,8 @@ jobs:
 
     - name: Update README
       run: |
-        # Safely update README.md with releases
-        if grep -q "## Releases" README.md; then
-          awk '/## Releases/{print;print "";system("cat releases.md");next}1' README.md > README.new
-        else
-          echo "## Releases" > README.new
-          echo "" >> README.new
-          cat releases.md >> README.new
-          cat README.md >> README.new
-        fi
+        # Replace the Releases section in README.md
+        awk '/## Releases/{flag=1;print "## Releases\n";print "";system("cat releases.md");next} /## /{flag=0} !flag' README.md > README.new
         mv README.new README.md
 
     - name: Commit changes
