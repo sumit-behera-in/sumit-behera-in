@@ -132,6 +132,11 @@
 - Latest release from sumit-behera-in/go_cli_template : [v1.2.1-template](https://github.com/sumit-behera-in/go_cli_template/releases/tag/v1.2.1-template)
 
 
+- Latest release from sumit-behera-in/go-file-compressor : [v1.0.2](https://github.com/sumit-behera-in/go-file-compressor/releases/tag/v1.0.2)
+- Latest release from sumit-behera-in/go-storage-handler : [v1.3.0](https://github.com/sumit-behera-in/go-storage-handler/releases/tag/v1.3.0)
+- Latest release from sumit-behera-in/go_cli_template : [v1.2.1-template](https://github.com/sumit-behera-in/go_cli_template/releases/tag/v1.2.1-template)
+
+
 <!---
 
 sumitbehera1508/sumitbehera1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
