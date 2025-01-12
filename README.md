@@ -128,9 +128,10 @@
 
 
 
+- Latest release from sumit-behera-in/Gin_Base_File_Server : [template-v1.0.1](https://github.com/sumit-behera-in/Gin_Base_File_Server/releases/tag/template-v1.0.1)
 - Latest release from sumit-behera-in/go-file-compressor : [v1.0.2](https://github.com/sumit-behera-in/go-file-compressor/releases/tag/v1.0.2)
 - Latest release from sumit-behera-in/go-repo-template : [template-v1.0.1](https://github.com/sumit-behera-in/go-repo-template/releases/tag/template-v1.0.1)
 - Latest release from sumit-behera-in/go-storage-handler : [v1.3.0](https://github.com/sumit-behera-in/go-storage-handler/releases/tag/v1.3.0)
 - Latest release from sumit-behera-in/goLogger : [v1.2.1](https://github.com/sumit-behera-in/goLogger/releases/tag/v1.2.1)
 - Latest release from sumit-behera-in/go_cli_template : [template-v1.2.2](https://github.com/sumit-behera-in/go_cli_template/releases/tag/template-v1.2.2)
-- Latest release from sumit-behera-in/Go_Network_Attached_Storage : [v1.2.0](https://github.com/sumit-behera-in/Go_Network_Attached_Storage/releases/tag/v1.2.0)
+- Latest release from sumit-behera-in/Go_Network_Attached_Storage : [v1.2.1](https://github.com/sumit-behera-in/Go_Network_Attached_Storage/releases/tag/v1.2.1)
