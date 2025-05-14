@@ -111,6 +111,9 @@
         <th>Unity</th>
         <th>Terraform</th>
         <th>PlayWrite</th>
+        <th>Docker</th>
+        <th>GCP</th>
+        <th>Github Actions</th>
   </tr>
         <tr>
     <td style=" text-align: center;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="vertical-align: middle;"></a></td>
@@ -118,6 +121,9 @@
     <td style=" text-align: center;"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="vertical-align: middle;"></a></td>
     <td style=" text-align: center;"><a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="40" height="40" style="vertical-align: middle;"></a></td>
     <td style=" text-align: center;"><a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwite" width="40" height="40" style="vertical-align: middle;"></a></td>
+    <td style=" text-align: center;"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" width="40" height="40" style="vertical-align: middle;"></a></td>
+    <td style=" text-align: center;"><a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="GCP" width="40" height="40" style="vertical-align: middle;"></a></td>
+    <td style=" text-align: center;"><a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/306098/githubactions.svg" alt="Github Actions" width="40" height="40" style="vertical-align: middle;"></a></td>
 </tr>
     </table>
 
