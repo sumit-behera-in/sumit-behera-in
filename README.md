@@ -1,4 +1,4 @@
-# ![Sumit Behera](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Native+Android+Developer!;Go+CLI+Application+Developer!)
+# ![Sumit Behera](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;SAP+BTP+Developer;Native+Android+Developer!;Go+CLI+Application+Developer!)
 
 * 📖 Continuously learning and growing as a developer
 * ✉️ Reach me at s1508b@gmail.com
