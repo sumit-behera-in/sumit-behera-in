@@ -1,6 +1,9 @@
 name: Update README with Releases from Repos with Releases
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * 0" # Runs every Sunday at midnight UTC
   workflow_dispatch: # Allows manual triggering
@@ -26,6 +29,7 @@ jobs:
 
         # Create a markdown file for repositories with releases
         echo "" > releases.md
+
         while IFS= read -r repo; do
           echo "Checking releases for $repo..."
           # Fetch releases for the current repository
@@ -50,14 +54,49 @@ jobs:
 
     - name: Update README
       run: |
-        # Replace the Releases section in README.md
-        awk '/## Releases/{flag=1;print "## Releases\n";print "";system("cat releases.md");next} /## /{flag=0} !flag' README.md > README.new
-        mv README.new README.md
+        TIMESTAMP=$(TZ="Asia/Kolkata" date +"%Y-%m-%d %H:%M:%S %Z")
+
+        awk -v ts="$TIMESTAMP" '
+        BEGIN {in_release=0; in_update=0}
+
+        /## Releases/ {
+          in_release=1
+          print "## Releases\n"
+          system("cat releases.md")
+          next
+        }
+
+        /## Last Updated/ {
+          in_update=1
+          print "## Last Updated"
+          print ts
+          next
+        }
+
+        /^## / {
+          in_release=0
+          in_update=0
+        }
+
+        !in_release && !in_update {
+          print
+        }
+
+        END {
+          if (!in_update) {
+            print "\n---\n## Last Updated"
+            print ts
+          }
+        }
+        ' README.md > README.tmp
+
+        mv README.tmp README.md
 
     - name: Commit changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+
         git add README.md
-        git commit -m "Update README with releases from repositories with releases" || echo "No changes to commit"
+        git commit -m "Auto-update README with latest releases" || echo "No changes to commit"
         git push || echo "Nothing to push"
