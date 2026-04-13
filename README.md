@@ -1,7 +1,6 @@
 # ![Sumit Behera](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;SAP+BTP+Developer;Native+Android+Developer!;Go+CLI+Application+Developer!)
 
 * 📖 Continuously learning and growing as a developer
-* ✉️ Reach me at s1508b@gmail.com
 * 💻 Building robust Go CLI tools for efficient workflows
 * 📱 Crafting intuitive Android apps with Kotlin
 * 🧠 Expanding expertise in AI/ML for smarter solutions
